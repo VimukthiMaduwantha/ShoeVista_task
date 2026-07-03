@@ -16,6 +16,7 @@ const Footer = () => {
                     <li><Link to="/about-us" className='hover:border-b-2 border-black'>About us</Link></li>
                     <li><Link to="/cart" className='hover:border-b-2 border-black'>Cart </Link></li>
                     <li><Link to="/wishlist" className='hover:border-b-2 border-black'>Wishlist</Link></li>
+                    <li><Link to="/wishlist" className='hover:border-b-2 border-black'>Hello test</Link></li>
                 </ul>
                 <ul className='flex justify-center items-start gap-4 flex-col'>
                     <li  className='font-semibold text-base'>Sections</li>
